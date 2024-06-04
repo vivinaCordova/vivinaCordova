@@ -1,250 +1,228 @@
-## Taller de Programación en C
-*Autor:* Johan Chumbi Malla
-*Fecha:* 03/06/2024
-*Objetivo:* Desarrollar habilidades en la programación de bucles en C, resolviendo una variedad de problemas utilizando los bucles for, while y do while.
-*Descripción del repositorio:* Este repositorio contiene las soluciones a los ejercicios del taller de programación en C utilizando los bucles for, while y do while.
+Taller de Programación en C
+Autor: Viviana Cordova
+Fecha: 03/06/2024
+Descripción del repositorio: Este repositorio contiene las soluciones a los ejercicios del taller de programación en C utilizando los bucles for, while y do while.
 
-### Estructura del Repositorio
-Cada ejercicio tiene tres versiones, una con for, otra con while y otra con do while. A continuación se detalla la ubicación de cada uno de los ejercicios: 
+Estructura del Repositorio
+Cada ejercicio tiene tres versiones, una con for, otra con while y otra con do while. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
-#### Problemas:
+Problemas:
+Suma de los dígitos de un número
 
-1. Suma de los dígitos de un número
+• Descripción: Dado un número, calcular la suma de sus dígitos.
 
-	• Descripción: Dado un número, calcular la suma de sus dígitos.
+ • Ejemplo: 12567 -> 1 + 2 + 5 + 6 + 7 = 21
+Enlace For: https://github.com/vivinaCordova/-1-for/blob/main/(1)for.c
 
-		• Ejemplo: 12567 -> 1 + 2 + 5 + 6 + 7 = 21
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(1)wuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioUnoFor.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(1)dowuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioUnoWhile.c
+Inverso de un número
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioUnoDoWhile.c
+• Descripción: Dado un número, obtener su inverso.
 
-2. Inverso de un número
+ • Ejemplo: 12567 -> 76521
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(2)for.c
 
-	• Descripción: Dado un número, obtener su inverso.
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(2)wuile.c
 
-		• Ejemplo: 12567 -> 76521
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(2)dowuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDosFor.c
+Potencia mediante sumas sucesivas
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDosWhile.c
+• Descripción: Calcular la potencia de un número utilizando sumas sucesivas.
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDosDoWhile.c
+ • Ejemplo: 2^3 = 2 * 2 * 2 = 8
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(3)for.c
 
-3. Potencia mediante sumas sucesivas
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(3)wuile.c
 
-	• Descripción: Calcular la potencia de un número utilizando sumas sucesivas.
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(3)dowuile.c
 
-		• Ejemplo: 2^3 = 2 * 2 * 2 = 8
+Radicación mediante restas sucesivas
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioTresFor.c
+• Descripción: Calcular la raíz cúbica de un número utilizando restas sucesivas.
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioTresWhile.c
+ • Ejemplo: 27^(1/3) = 3
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(4)%20for.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioTresDoWhile.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(4)wuile.c
 
-4. Radicación mediante restas sucesivas
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(3)dowuile.c
 
-	• Descripción: Calcular la raíz cúbica de un número utilizando restas sucesivas.
+Serie de Fibonacci
 
-		• Ejemplo: 27^(1/3) = 3
+• Descripción: Presentar los n elementos de la serie de Fibonacci.
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCuatroFor.c
+ • Ejemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, …
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(5)for.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCuatroWhile.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(5)%20wuile.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCuatroDoWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(5)dowuile.c
 
-5. Serie de Fibonacci
+Factorial de un número
 
-	• Descripción: Presentar los n elementos de la serie de Fibonacci.
+• Descripción: Calcular el factorial de un número.
 
-		• Ejemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, …
+ • Ejemplo: 5! = 5 * 4 * 3 * 2 * 1 = 120
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(6)for.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCincoFor.c
+Enlace While: https://github.com/vivinaCordova/-6-/blob/main/(6)wuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCincoWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(6)dowuile.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCincoDoWhile.c
+Suma de una serie aritmética
 
-6. Factorial de un número
+• Descripción: Calcular la suma de los primeros n términos de una serie aritmética.
 
-	• Descripción: Calcular el factorial de un número.
+ • Ejemplo: 1 + 2 + 3 + … + n
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(7)for.c
 
-		• Ejemplo: 5! = 5 * 4 * 3 * 2 * 1 = 120
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(7)wuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioSeisFor.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(7)dowuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioSeisWhile.c
+Producto de una serie geométrica
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioSeisDoWhile.c
+• Descripción: Calcular el producto de los primeros n términos de una serie geométrica.
 
-7. Suma de una serie aritmética
+ • Ejemplo: 2, 4, 8, 16, …
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(8)for.c
 
-	• Descripción: Calcular la suma de los primeros n términos de una serie aritmética.
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(8)wuile.c
 
-		• Ejemplo: 1 + 2 + 3 + … + n
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(8)dowuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioSieteFor.c
+Número de dígitos de un número
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioSieteWhile.c
+• Descripción: Contar el número de dígitos de un número.
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioSieteDoWhile.c
+ • Ejemplo: 12567 tiene 5 dígitos
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(9)for.c
 
-8. Producto de una serie geométrica
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(9)wuile.c
 
-	• Descripción: Calcular el producto de los primeros n términos de una serie geométrica.
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(9)dowuile.c
 
-		• Ejemplo: 2, 4, 8, 16, …
+Verificar si un número es primo
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioOchoFor.c
+• Descripción: Determinar si un número es primo.
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioOchoWhile.c
+• Ejemplo: 7 es primo, 10 no es primo
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(10)for.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioOchoDoWhile.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(10)wuile.c
 
-9. Número de dígitos de un número
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(10)dowuile.c
 
-	• Descripción: Contar el número de dígitos de un número.
+Encontrar el MCD (Máximo Común Divisor)
 
-		• Ejemplo: 12567 tiene 5 dígitos
+• Descripción: Calcular el MCD de dos números.
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioNueveFor.c
+• Ejemplo: MCD de 54 y 24 es 6
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(11)for.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioNueveWhile.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(11)wuile.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioNueveDoWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(11)dowuile.c
 
-10. Verificar si un número es primo
+Sumar los números impares hasta n
 
-	• Descripción: Determinar si un número es primo.
+• Descripción: Calcular la suma de todos los números impares desde 1 hasta n.
 
-		• Ejemplo: 7 es primo, 10 no es primo
+• Ejemplo: Si n = 10, suma = 1 + 3 + 5 + 7 + 9 = 25
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(12)for.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiezFor.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(12)wuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiezWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(12)dowuile.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiezDoWhile.c
+Sumar los números pares hasta n
 
-11. Encontrar el MCD (Máximo Común Divisor)
+• Descripción: Calcular la suma de todos los números pares desde 1 hasta n.
 
-	• Descripción: Calcular el MCD de dos números.
+• Ejemplo: Si n = 10, suma = 2 + 4 + 6 + 8 + 10 = 30
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(13)for.c
 
-		• Ejemplo: MCD de 54 y 24 es 6
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(13)wuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioOnceFor.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(13)dowuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioOnceWhile.c
+Suma de los cuadrados de los primeros n números
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioOnceDoWhile.c
+• Descripción: Calcular la suma de los cuadrados de los primeros n números naturales.
 
-12. Sumar los números impares hasta n
+• Ejemplo: Si n = 3, suma = 1^2 + 2^2 + 3^2 = 14
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(14)for.c
 
-	• Descripción: Calcular la suma de todos los números impares desde 1 hasta n.
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(14)wuile.c
 
-		• Ejemplo: Si n = 10, suma = 1 + 3 + 5 + 7 + 9 = 25
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(14)dowuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDoceFor.c
+Suma de los cubos de los primeros n números
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDoceWhile.c
+• Descripción: Calcular la suma de los cubos de los primeros n números naturales.
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDoceDoWhile.c
+• Ejemplo: Si n = 3, suma = 1^3 + 2^3 + 3^3 = 36
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(15)for.c
 
-13. Sumar los números pares hasta n
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(15)wuile.c
 
-	• Descripción: Calcular la suma de todos los números pares desde 1 hasta n.
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(15)dowuile.c
 
-		• Ejemplo: Si n = 10, suma = 2 + 4 + 6 + 8 + 10 = 30
+Suma de una serie de números fraccionarios
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioTreceFor.c
+• Descripción: Calcular la suma de la serie 1 + 1/2 + 1/3 + … + 1/n.
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioTreceWhile.c
+• Ejemplo: Si n = 3, suma = 1 + 1/2 + 1/3
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(16)for.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioTreceDoWhile.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(16)wuile.c
 
-14. Suma de los cuadrados de los primeros n números
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(16)dowuile.c
 
-	• Descripción: Calcular la suma de los cuadrados de los primeros n números naturales.
+Producto de una serie de números fraccionarios
 
-		• Ejemplo: Si n = 3, suma = 1^2 + 2^2 + 3^2 = 14
+• Descripción: Calcular el producto de la serie 1 1/2 1/3 … 1/n.
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCatorceFor.c
+• Ejemplo: Si n = 3, producto = 1 * 1/2 * 1/3
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(17)for.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCatorceWhile.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(17)wuile.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioCatorceDoWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(17)dowuile.c
 
-15. Suma de los cubos de los primeros n números
+Contar los números primos hasta n
 
-	• Descripción: Calcular la suma de los cubos de los primeros n números naturales.
+• Descripción: Contar cuántos números primos hay desde 1 hasta n.
 
-		• Ejemplo: Si n = 3, suma = 1^3 + 2^3 + 3^3 = 36
+• Ejemplo: Si n = 10, hay 4 números primos (2, 3, 5, 7)
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(18)for.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioQuinceFor.c
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(18)wuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioQuinceWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(18)dowuile.c
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioQuinceDoWhile.c
+Calcular el n-ésimo número triangular
 
-16. Suma de una serie de números fraccionarios
+• Descripción: Calcular el n-ésimo número triangular.
 
-	• Descripción: Calcular la suma de la serie 1 + 1/2 + 1/3 + … + 1/n.
+• Ejemplo: Si n = 4, el número triangular es 1 + 2 + 3 + 4 = 10
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(19)for.c
 
-		• Ejemplo: Si n = 3, suma = 1 + 1/2 + 1/3
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(19)wuile.c
 
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesiseisFor.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(19)dowuile.c
 
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiezsiseisWhile.c
+Calcular la suma de los factoriales de los primeros n números
 
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiezsiseisDoWhile.c
+• Descripción: Calcular la suma de los factoriales de los primeros n números.
 
-17. Producto de una serie de números fraccionarios
+• Ejemplo: Si n = 3, suma = 1! + 2! + 3! = 1 + 2 + 6 = 9
+Enlace For: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/(20)for.c
 
-	• Descripción: Calcular el producto de la serie 1 * 1/2 * 1/3 * … * 1/n.
+Enlace While: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/wuile/(20)wuile.c
 
-		• Ejemplo: Si n = 3, producto = 1 * 1/2 * 1/3
-
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesisieteFor.c
-
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesisieteWhile.c
-
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesisieteDoWhile.c
-
-18. Contar los números primos hasta n
-
-	• Descripción: Contar cuántos números primos hay desde 1 hasta n.
-
-		• Ejemplo: Si n = 10, hay 4 números primos (2, 3, 5, 7)
-
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesiochoFor.c
-
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesiochoWhile.c
-
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesiochoDoWhile.c
-
-19. Calcular el n-ésimo número triangular
-
-	• Descripción: Calcular el n-ésimo número triangular.
-
-		• Ejemplo: Si n = 4, el número triangular es 1 + 2 + 3 + 4 = 10
-
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesinueveFor.c
-
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesinueveWhile.c
-
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioDiesinueveDoWhile.c
-
-20. Calcular la suma de los factoriales de los primeros n números
-
-	• Descripción: Calcular la suma de los factoriales de los primeros n números.
-
-		• Ejemplo: Si n = 3, suma = 1! + 2! + 3! = 1 + 2 + 6 = 9
-
-* Enlace For: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioVeinteFor.c
-
-* Enlace While: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioVeinteWhile.c
-
-•Enlace DoWhile: https://github.com/johan22ch/Taller-de-Programaci-n-en-C-/blob/main/EjercicioVeinteDoWhile.c
+Enlace DoWhile: https://github.com/vivinaCordova/-20-For-Wuile-Do-Wuile/blob/main/do%20wuile/(20)dowuile.c
